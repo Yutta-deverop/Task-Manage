@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Task Suite",
+  "description": "Offline-first high-performance task management micro-tool suite with shared IndexedDB.",
+  "requestFramePermissions": ["notifications"]
+}
